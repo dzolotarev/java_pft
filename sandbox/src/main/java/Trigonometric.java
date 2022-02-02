@@ -1,6 +1,6 @@
 //This is my first test Java application!
 
-public class Hello
+public class Trigonometric
 {
     public static int N = 50;
 
